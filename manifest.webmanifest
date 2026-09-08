@@ -1,0 +1,11 @@
+{
+  "name": "Relic Restorer",
+  "short_name": "Relic",
+  "description": "A satisfying museum restoration sorting puzzle.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#102f35",
+  "theme_color": "#102f35",
+  "orientation": "portrait"
+}
+
